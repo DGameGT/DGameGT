@@ -45,9 +45,6 @@
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-
-## 📊 My GitHub Stats
-
 [![DGameGT's GitHub stats](https://github-readme-stats.vercel.app/api?username=DGameGT&show_icons=true&theme=onedark&hide_title=false&cache_seconds=1800)](https://github-readme-stats.vercel.app/api?username=DGameGT&show_icons=true&theme=onedark)
 
 ## 🏆 My Trophy Case  
