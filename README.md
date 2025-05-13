@@ -7,7 +7,6 @@
 
 <!-- CTF Rank Badge -->
 ![CTF-Rank](https://img.shields.io/badge/CTF%20Rank-Platinum%20Hunter-blueviolet?style=flat-square)
-
 <!-- Spotify Now Playing Badge (Statis) -->
 [![Spotify](https://img.shields.io/badge/Now%20Playing-My%20Ordinary%20Life-brightgreen?style=flat-square&logo=spotify)](https://open.spotify.com/track/3vTyzS9NQK0uObFyN1k8g7)
 
