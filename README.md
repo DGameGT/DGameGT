@@ -1,4 +1,5 @@
 # Hello There 👋 I'm Dika Kurnia R / DGameXO
+![Cava](https://img.shields.io/badge/Terminal-Cava-orange)
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
