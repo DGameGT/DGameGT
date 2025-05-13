@@ -1,6 +1,10 @@
 # Hello There 👋 I'm Dika Kurnia R / DGameXO
-<br>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Website%20Developer;AI%20Engineer;Code%20Without%20Limits,%20Think;Beyond%20The%20Universe%20DGXO%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
+</p>
+
+<br>
 - A passionate Self-taught Front-End Developer who loves building clean, responsive, no-noisy-animation websites.
 - Cybersecurity Enthusiast & CTF player — breaking things just to fix them better.
 - Currently focusing on Web Development, Red Team Ops, and Ethical Hacking by self-learning.
