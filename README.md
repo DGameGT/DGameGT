@@ -2,9 +2,10 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Website%20Developer;AI%20Engineer;Cyber%20Security;Code%20without%20limits,%20think%20beyond%20the%20universe;DGXO%20%7C%20DGameXO&font=Fira%20Code&center=true&width=440&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Website%20Developer;AI%20Engineer;Cyber%20Security;Code%20without%20limits;Think%20beyond%20the%20universe;DGXO%20%7C%20DGameXO&font=Fira%20Code&center=true&width=440&height=45">
   </a>
 </p>
+
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **About Me**
 
