@@ -53,7 +53,7 @@
 
 ## 🏆 My Trophy Case  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DGameGT&theme=onedark&cache_seconds=1800)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DGameGT&theme=onedark&cache_seconds=20)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div align="center">
 
