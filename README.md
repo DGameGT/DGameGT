@@ -51,18 +51,9 @@
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
 ## **Operating System & Setup**
-![Logo DGXOS](https://example.com/dgxos-logo.png)  <!-- Ganti dengan URL logo asli kamu -->
 ![OS - DGXOS](https://img.shields.io/badge/OS-DGXOS%20(based%20on%20Arch)-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Desktop Environment - Hyprland](https://img.shields.io/badge/Desktop%20Environment-Hyprland-%2300b0f0?style=for-the-badge&logo=hyprland)
- ________  ________     ___    ___ ________  ________      
-|\   ___ \|\   ____\   |\  \  /  /|\   __  \|\   ____\     
-\ \  \_|\ \ \  \___|   \ \  \/  / | \  \|\  \ \  \___|_    
- \ \  \ \\ \ \  \  ___  \ \    / / \ \  \\\  \ \_____  \   
-  \ \  \_\\ \ \  \|\  \  /     \/   \ \  \\\  \|____|\  \  
-   \ \_______\ \_______\/  /\   \    \ \_______\____\_\  \ 
-    \|_______|\|_______/__/ /\ __\    \|_______|\_________\
-                       |__|/ \|__|             \|_________|    
-                       
+![Logo DGXOS](https://github.com/DGameGT/ImagesForWebsite/blob/main/dgxos_logo.png?raw=true)  
 > **DGXOS** adalah sistem operasi kustom saya, yang berbasis Arch Linux. Untuk lingkungan desktop, saya menggunakan **Hyprland** yang dikustomisasi dari [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles). Kredit penuh kepada pembuatnya! 🙏💖
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
