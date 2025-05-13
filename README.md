@@ -51,7 +51,7 @@
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
 ## **Operating System & Setup**
-![OS - Arch Linux](https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![OS - DGXOS](https://img.shields.io/badge/OS-DGXOS%20(based%20on%20Arch)-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Desktop Environment - Hyprland](https://img.shields.io/badge/Desktop%20Environment-Hyprland-%2300b0f0?style=for-the-badge&logo=hyprland)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
