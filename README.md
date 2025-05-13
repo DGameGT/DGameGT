@@ -1,7 +1,6 @@
 # Hello There 👋 I'm Dika Kurnia R / DGameXO
-![Cava](https://img.shields.io/badge/Terminal-Cava-orange)
 [![Spotify](https://img.shields.io/badge/Now%20Playing-YOASOBI%20--%20Tabun-brightgreen?logo=spotify)](https://open.spotify.com/track/your-track-id)
-![Cava Visualizer](https://yourlink.com/cava-visualizer.gif)
+![Cava Visualizer]([https://yourlink.com/cava-visualizer.gif](https://images.app.goo.gl/JViAG7RatYqbtTYH7))
 
 
 <p align="center">
