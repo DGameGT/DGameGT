@@ -1,4 +1,6 @@
 # Hello There 👋 I'm Dika Kurnia R / DGameXO
+![CTF-Rank](https://img.shields.io/badge/CTF%20Rank-Platinum%20Hunter-blueviolet?style=flat-square&logo=protonmail)
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Website%20Developer;AI%20Engineer;Cyber%20Security;Code%20without%20limits;Think%20beyond%20the%20universe;DGXO%20%7C%20DGameXO&font=Fira%20Code&center=true&width=440&height=45">
