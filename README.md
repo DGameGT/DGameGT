@@ -1,13 +1,14 @@
 # Hello There 👋 I'm Dika Kurnia R / DGameXO
-![CTF-Rank](https://img.shields.io/badge/CTF%20Rank-Platinum%20Hunter-blueviolet?style=flat-square&logo=protonmail)
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Website%20Developer;AI%20Engineer;Cyber%20Security;Code%20without%20limits;Think%20beyond%20the%20universe;DGXO%20%7C%20DGameXO&font=Fira%20Code&center=true&width=440&height=45">
   </a>
 </p>
+<!-- CTF Rank Badge -->
+![CTF-Rank](https://img.shields.io/badge/CTF%20Rank-Platinum%20Hunter-blueviolet?style=flat-square)
 
-[![Spotify](https://img.shields.io/badge/Now%20Playing-My%20Ordinary%20Life--The%20Living%20Tombstone-brightgreen?logo=spotify)](https://open.spotify.com/track/3vTyzS9NQK0uObFyN1k8g7)
+<!-- Spotify Now Playing Badge (Statis) -->
+[![Spotify](https://img.shields.io/badge/Now%20Playing-My%20Ordinary%20Life-brightgreen?style=flat-square&logo=spotify)](https://open.spotify.com/track/3vTyzS9NQK0uObFyN1k8g7)
 
 <p align="center">
   <img src="https://github.com/karlstav/cava/blob/master/example_files/cava.gif" alt="Cava Visualizer">
