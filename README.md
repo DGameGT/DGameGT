@@ -7,9 +7,11 @@
 </p>
 
 [![Spotify](https://img.shields.io/badge/Now%20Playing-My%20Ordinary%20Life--The%20Living%20Tombstone-brightgreen?logo=spotify)](https://open.spotify.com/track/3vTyzS9NQK0uObFyN1k8g7)
+
 <p align="center">
-![Cava Visualizer](https://github.com/karlstav/cava/blob/master/example_files/cava.gif)
+  <img src="https://github.com/karlstav/cava/blob/master/example_files/cava.gif" alt="Cava Visualizer">
 </p>
+
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **About Me**
 
 <picture>
