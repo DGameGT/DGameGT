@@ -1,7 +1,4 @@
 # Hello There 👋 I'm Dika Kurnia R / DGameXO
-## 🏙️ My GitHub Skyline
-![GitHub Skyline](https://i.pinimg.com/originals/3b/87/79/3b8779744151dec2be76eb3c6e75f89f.gif)
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Website%20Developer;AI%20Engineer;Cyber%20Security;Code%20without%20limits;Think%20beyond%20the%20universe;DGXO%20%7C%20DGameXO&font=Fira%20Code&center=true&width=440&height=45">
