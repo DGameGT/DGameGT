@@ -46,8 +46,9 @@
 
 </a>
 </div>
+## 🏆 My Trophy Case
 
-<br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=DGameGT&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
 <br>
 
@@ -90,12 +91,3 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-<br>
-<br>
-
-## 🏆 My Trophy Case
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=DGameGT&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-## 📌 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DGameGT&layout=compact&theme=onedark)
