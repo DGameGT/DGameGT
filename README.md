@@ -5,11 +5,10 @@
     <img src="https://readme-typing-svg.herokuapp.com?lines=Website%20Developer;AI%20Engineer;Cyber%20Security;Code%20without%20limits;Think%20beyond%20the%20universe;DGXO%20%7C%20DGameXO&font=Fira%20Code&center=true&width=440&height=45">
   </a>
 </p>
-[![Spotify](https://img.shields.io/badge/Now%20Playing-YOASOBI%20--%20Tabun-brightgreen?logo=spotify)](https://open.spotify.com/track/your-track-id)
+
+[![Spotify](https://img.shields.io/badge/Now%20Playing-My%20Ordinary%20Life--The%20Living%20Tombstone-brightgreen?logo=spotify)](https://open.spotify.com/track/3vTyzS9NQK0uObFyN1k8g7)
+
 ![Cava Visualizer](https://github.com/karlstav/cava/blob/master/example_files/cava.gif)
-
-
-
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **About Me**
 
