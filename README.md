@@ -40,13 +40,6 @@
 🏆 My Trophy Case
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DGameGT&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<br>
-<br>
-
------
-
-<br>
-<br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
