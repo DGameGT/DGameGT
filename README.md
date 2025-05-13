@@ -1,4 +1,5 @@
 # Hello There 👋 I'm Dika Kurnia R / DGameXO
+![Terminal Hack](https://yourlink.com/terminal-hack.gif)
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
