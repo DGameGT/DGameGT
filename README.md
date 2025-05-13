@@ -15,7 +15,7 @@
 
 - **Languages**:
     
-    ![Java Script](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+    ![Java Script](https://img.shields.io/badge/javascript-blue?logo=javascript)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>   
