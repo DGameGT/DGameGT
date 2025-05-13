@@ -1,8 +1,11 @@
 # Hello There 👋 I'm Dika Kurnia R / DGameXO
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Website%20Developer;AI%20Engineer;Code%20Without%20Limits,%20Think Beyond The Universe;DGXO } DGameXO%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Website%20Developer;AI%20Engineer;Code%20Without%20Limits%2C%20Think%20Beyond%20The%20Universe;DGXO%20DGameXO%20%F0%9F%92%AC&font=Fira%20Code&center=true&width=440&height=45">
+  </a>
 </p>
+
 
 <br>
 - A passionate Self-taught Front-End Developer who loves building clean, responsive, no-noisy-animation websites.
