@@ -8,12 +8,7 @@
 <!-- CTF Rank Badge -->
 ![CTF-Rank](https://img.shields.io/badge/CTF%20Rank-Platinum%20Hunter-blueviolet?style=flat-square)
 [![Spotify](https://img.shields.io/badge/Now%20Playing-My%20Ordinary%20Life-brightgreen?style=flat-square&logo=spotify)](https://open.spotify.com/track/3vTyzS9NQK0uObFyN1k8g7)
-# Dgxoshop
-
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ace72150-02c8-4d77-8616-913f14106d99/deploy-status)](https://app.netlify.com/projects/dgxoshop/deploys)
-
-Deskripsi project kamu di sini...
-
 
 <p align="center">
   <img src="https://github.com/karlstav/cava/blob/master/example_files/cava.gif" alt="Cava Visualizer">
