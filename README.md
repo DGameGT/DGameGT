@@ -33,64 +33,42 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> **Skills**
 <p align="center">
+### **Languages**:
+![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
-- **Languages**:
+### **Front-End Development**:
+![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+### **Cybersecurity**:
+![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-red?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-black?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-gray?style=for-the-badge)
+![OSINT](https://img.shields.io/badge/OSINT-blue?style=for-the-badge)
+![Cryptography](https://img.shields.io/badge/Cryptography-007396?style=for-the-badge)
+![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-orange?style=for-the-badge&logo=bugcrowd&logoColor=white)
 
-- **Front-End Development**:
+### **Networking & Cloud**:
+![Cisco](https://img.shields.io/badge/Cisco%20Networking-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortinet-%23ED1C24.svg?style=for-the-badge&logo=fortinet&logoColor=white)
 
-    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+### **Artificial Intelligence**:
+![Generative AI](https://img.shields.io/badge/Generative%20AI-4A4A4A?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-40C97B?style=for-the-badge)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
-- **Cybersecurity**:
-
-    ![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-red?style=for-the-badge&logo=hackthebox&logoColor=white)
-    ![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-black?style=for-the-badge&logo=kalilinux&logoColor=white)
-    ![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-gray?style=for-the-badge)
-    ![OSINT](https://img.shields.io/badge/OSINT-blue?style=for-the-badge)
-    ![Cryptography](https://img.shields.io/badge/Cryptography-007396?style=for-the-badge)
-    ![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-orange?style=for-the-badge&logo=bugcrowd&logoColor=white)
-
-- **Networking & Cloud**:
-
-    ![Cisco](https://img.shields.io/badge/Cisco%20Networking-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white)
-    ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-    ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-    ![Fortinet](https://img.shields.io/badge/Fortinet-%23ED1C24.svg?style=for-the-badge&logo=fortinet&logoColor=white)
-
-- **Artificial Intelligence**:
-
-    ![Generative AI](https://img.shields.io/badge/Generative%20AI-4A4A4A?style=for-the-badge)
-    ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-40C97B?style=for-the-badge)
-    ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-
-- **Softwares and Tools**:
-
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-    ![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white)
-    ![Nmap](https://img.shields.io/badge/Nmap-%23000000.svg?style=for-the-badge)
-- **Languages**:
-    
-    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  
-- **Front-End Development**:
-
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-- **Softwares and Tools**:
-
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+### **Softwares and Tools**:
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-%23000000.svg?style=for-the-badge)
 
 ## **Operating System & Setup**
 ![OS - DGXOS](https://img.shields.io/badge/OS-DGXOS%20(based%20on%20Arch)-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
