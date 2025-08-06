@@ -24,7 +24,6 @@
 - Cybersecurity Enthusiast & CTF player — breaking things just to fix them better.
 - Currently focusing on Web Development, Red Team Ops, and Ethical Hacking by self-learning.
 - Loves to spend time tweaking code, playing around with JavaScript obfuscation & deobfuscation, and doing OSINT.
-- Personal Website: [dgxo.netlify.app](https://dgxo.netlify.app)
 
 <br>
 
