@@ -13,6 +13,21 @@
   <img src="https://github.com/karlstav/cava/blob/master/example_files/cava.gif" alt="Cava Visualizer">
 </p>
 
+## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **Whoami?**
+
+Hello! I’m the **Founder & CEO of <a href="https://dgxoltd.com" target="_blank" rel="noopener noreferrer">DGXO</a> (Dream & Driven Generation eXperience Operation)**, a next gen technology ecosystem built to deliver limitless digital experiences through innovation in **Cybersecurity**, **Artificial Intelligence**, and **Website Development**.
+
+Under **DGXO**, I lead several pioneering projects such as **DGXO Command Hub**, **Codify**, **MashaAI**, **RexCell**, and **DGXOS**, merging technical precision with creative engineering to shape secure and intelligent systems.
+
+With over **three years of hands-on experience** in **ethical hacking**, **AI driven cybersecurity**, and **red team operations**, I specialize in building **adaptive infrastructures** that balance innovation, performance, and protection.
+
+My mission is simple: **to turn ideas into secure, scalable, and intelligent realities.**
+
+📩 **Business Contact:**
+
+* Corporate: [contact@dgxoltd.com](mailto:contact@dgxoltd.com)
+* Personal: [contact@dgxo.my.id](mailto:contact@dgxo.my.id)
+
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **About Me**
 
 <picture>
@@ -20,7 +35,7 @@
 </picture>
 
 - A passionate Self-taught Front-End Developer who loves building clean, responsive, no-noisy-animation websites.
-- Cybersecurity Enthusiast & CTF player — breaking things just to fix them better.
+- Cybersecurity Enthusiast & CTF player - breaking things just to fix them better.
 - Currently focusing on Web Development, Red Team Ops, and Ethical Hacking by self-learning.
 - Loves to spend time tweaking code, playing around with JavaScript obfuscation & deobfuscation, and doing OSINT.
 
